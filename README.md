@@ -38,4 +38,4 @@ Some of the analyses conducted:
 In data analysis, it's observed that both low-priced and high-priced wines tend to receive high ratings. This trend may be attributed to the perceived value of these wines relative to their price, or possibly because consumers reserve more expensive wines for special occasions, influencing the higher ratings they receive. Consequently, wine producers may consider allocating their resources strategically to meet market preferences. Overall, there appears to be no clear correlation between price and quality when comparing most commercial wines.
 
 #### Dataset source
- From Kaggle: https://www.kaggle.com/zynicide/wine-reviews/data
+ _From Kaggle:_ https://www.kaggle.com/zynicide/wine-reviews/data
