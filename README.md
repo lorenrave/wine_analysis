@@ -1,6 +1,7 @@
 # Wine Review Analysis
 
-![los-mejores-vinos-por-menos-de-10-euros-portada-800x533](https://github.com/lorenrave/wine_analysis/assets/108484210/a0f318dc-ae93-4975-bda2-0728898ed8d9)
+
+![image](https://github.com/lorenrave/wine_analysis/assets/108484210/cef2b08f-d77c-425a-8931-33b5b92642c6)
 
 
 ## About the project
